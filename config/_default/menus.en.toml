@@ -17,22 +17,6 @@
   weight = 3
 
 [[main]]
-  identifier = "gallery"
-  name = "Gallery"
-  url = "gallery"
-  weight = 4
-    
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
-
-[[main]]
   identifier = "posts"
   name = "Posts"
   url = "posts"
@@ -43,9 +27,3 @@
   name = "Showcase"
   url = "showcase"
   weight = 6
-
-[[main]]
-  identifier = "publication"
-  name = "Pub"
-  url = "publication"
-  weight = 7
