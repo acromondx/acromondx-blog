@@ -11,19 +11,13 @@
   weight = 2
 
 [[main]]
-  identifier = "presentation"
-  name = "Pt"
-  url = "presentation"
-  weight = 3
-
-[[main]]
   identifier = "posts"
   name = "Posts"
   url = "posts"
-  weight = 5
+  weight = 3
 
 [[main]]
   identifier = "showcase"
   name = "Showcase"
   url = "showcase"
-  weight = 6
+  weight = 4
