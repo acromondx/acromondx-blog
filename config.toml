@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = "http://gideonx.netlify.app"
 languageCode = 'en-us'
 title = 'GideonX'
 theme = 'zzo'
