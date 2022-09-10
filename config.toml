@@ -1,6 +1,6 @@
 baseURL = "http://acromondx.netlify.app"
 languageCode = 'en-us'
-title = 'AcromondX'
+title = 'acromondX'
 theme = 'zzo'
 
 ignoreErrors = ["error-remote-getjson"]
