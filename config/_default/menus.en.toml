@@ -17,7 +17,7 @@
   weight = 3
 
 [[main]]
-  identifier = "showcase"
-  name = "Showcase"
-  url = "showcase"
+  identifier = "projects"
+  name = "Projects"
+  url = "projects"
   weight = 4

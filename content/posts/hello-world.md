@@ -4,7 +4,7 @@ date: 2022-09-10T12:00:06+09:00
 description: This is my first blog post
 draft: false
 hideToc: true
-enableToc: true
+enableToc: false
 enableTocContent: true
 authorEmoji: 🤖
 categories:
@@ -17,4 +17,4 @@ Hi, my name is Gideon and I am the owner of this blog. I have always wanted a bl
 
 Here am I with my first blog post. Well, I guess I defeated Mr. Procrastination 😄.
 
-As of writing this blog post, I have not idea of the kind of content I will publish here. Maybe I write personal stuff or coding(flutter & python) or both.
+Currently, I have not idea of the kind of content I will publish here. Maybe I write personal stuff or coding(flutter & python) or both.
