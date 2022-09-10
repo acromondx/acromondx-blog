@@ -19,5 +19,5 @@
 [[main]]
   identifier = "projects"
   name = "Projects"
-  url = "projects"
+  url = "showcase"
   weight = 4
