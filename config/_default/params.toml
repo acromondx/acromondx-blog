@@ -1,6 +1,6 @@
-logoText = "acromondx"
+logoText = "acromondX"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "I am not a robot"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
