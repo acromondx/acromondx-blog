@@ -5,7 +5,7 @@ description: This is my first blog post
 draft: false
 hideToc: true
 enableToc: false
-enableTocContent: true
+enableTocContent: false
 authorEmoji: 🤖
 categories:
 - personal
