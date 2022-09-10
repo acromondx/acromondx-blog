@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "http://gideonx.netlify.app"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
