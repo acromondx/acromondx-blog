@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'GideonX'
+theme = 'zzo'
+
+ignoreErrors = ["error-remote-getjson"]
