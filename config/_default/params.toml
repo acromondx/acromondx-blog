@@ -1,4 +1,4 @@
-logoText = "GideonX"
+logoText = "acromondx"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -67,7 +67,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Accra, Ghana"
 organization = ""
-link = "https://gideonx.com"
+link = "https://acromondx.com"
 
 # sidebar
 enableBio = true

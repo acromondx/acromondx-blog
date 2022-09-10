@@ -1,6 +1,6 @@
-baseURL = "http://gideonx.netlify.app"
+baseURL = "http://acromondx.netlify.app"
 languageCode = 'en-us'
-title = 'GideonX'
+title = 'acromondx'
 theme = 'zzo'
 
 ignoreErrors = ["error-remote-getjson"]
