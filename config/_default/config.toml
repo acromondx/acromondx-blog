@@ -1,5 +1,5 @@
 baseURL = "http://acromondx.netlify.app"
-title = "acromondX Blog"
+title = "AcromondX Blog"
 theme = "zzo"
 
 defaultContentLanguage = "en"
