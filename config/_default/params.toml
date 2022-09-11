@@ -104,7 +104,7 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updatePeriod = "weekly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
 fullContents = false
 
@@ -126,7 +126,7 @@ commento = false
 
 [utterances]       # https://utteranc.es/
   owner = "50566307"              # Your GitHub ID
-  repo = "https://github.com/acromondx/blog-comments"               # The repo to store comments
+  repo = "acromondx/blog-comments"               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID
