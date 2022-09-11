@@ -138,11 +138,11 @@ commento = false
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 [valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
+  enable = true
+  appId = 'doqtXBPlwpiDhvVQfmf4gGOZ-MdYXbMMI'
+  appKey = 'RD6fwExRs7MT1lAY2FXaiprl'
+  notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = true # Verification code
   avatar = 'mm' 
   placeholder = '说点什么吧...'
   visitor = false
