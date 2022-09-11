@@ -110,7 +110,7 @@ fullContents = false
 
 # comment
 enableComment = true
-# disqus_shortname = "acromondx-me"
+disqus_shortname = "acromondx-me"
 commento = false
 
 [telegram]
