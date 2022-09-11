@@ -125,7 +125,6 @@ commento = false
   clientSecret = ""       # Your client secret
 
 [utterances]       # https://utteranc.es/
-  enable = true
   owner = "50566307"              # Your GitHub ID
   repo = "acromondx/acromondx-blog"               # The repo to store comments
 
