@@ -126,7 +126,7 @@ commento = false
 
 [utterances]       # https://utteranc.es/
   owner = "50566307"              # Your GitHub ID
-  repo = "acromondx/blog-comments"               # The repo to store comments
+  repo = "acromondx-blog"               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID
