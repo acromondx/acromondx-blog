@@ -19,3 +19,5 @@ Hi, my name is Gideon and I am the owner of this blog. I have always wanted a bl
 Here I am with my first blog post. Well, I guess I defeated Mr. Procrastination 😄.
 
 Currently, I have not idea of the kind of content I will publish here. Maybe I will write personal stuff or coding(flutter & python) or both.
+
+# About the blog
