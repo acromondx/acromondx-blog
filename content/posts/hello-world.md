@@ -20,4 +20,18 @@ Here I am with my first blog post. Well, I guess I defeated Mr. Procrastination 
 
 Currently, I have not idea of the kind of content I will publish here. Maybe I will write personal stuff or coding(flutter & python) or both.
 
-# About the blog
+### About the blog
+I am a big fan of static site generators (**SSGs**). That's why when the time came for me to create my blog, I only considered static site solutions (I'm sorry WordPress 🤣).
+
+#### Hugo
+Choosing the right SSGs was like Sophie's choice all over again. I spent 2 weeks trying out most of the popular SSGs out there. To make my life simplier, I narrowed down my needs into three specifications:
+
+ - Page build speed
+ - Markdown support
+ - 
+Based on the above criteria, Hugo stood out to be the obvious answer to my dilemma even though jekyll was really close.
+
+ #### Hosting
+
+
+ #### Comments
