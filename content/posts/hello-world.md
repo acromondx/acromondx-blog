@@ -32,6 +32,8 @@ Choosing the right SSGs was like Sophie's choice all over again. I spent 2 weeks
 Based on the above criteria, Hugo stood out to be the obvious answer to my dilemma even though jekyll was really close.
 
  #### Hosting
+ The raw files of the blog can be found on my github repo. The generated static site is hosted on netlify
 
 
  #### Comments
+I am using disqus for comments. I enjoy the emoji reactins at the end of every post
