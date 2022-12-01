@@ -14,11 +14,11 @@ image: images/feature1/markdown.png
 ---
 
 ### Pseudo-Intro
-Hi, my name is Gideon and I am the owner of this blog. I have always wanted a blog but Mr. Procrastination didn't let me build one. 
+My name is Gideon Acromond, and I own this blog. Mr. Procrastination has prevented me from creating a blog, despite my constant desire to do so.
 
-Here I am with my first blog post. Well, I guess I defeated Mr. Procrastination 😄.
+My first blog post is right here. I suppose I've now beaten Mr. Procrastination.
 
-Currently, I have not idea of the kind of content I will publish here. Maybe I will write personal stuff or coding(flutter & python) or both.
+Right now, I have no clue what type of stuff I will publish on this site. I might write about things I find fascinating.
 
 ### About the blog
 I am a big fan of static site generators (**SSGs**). That's why when the time came for me to create my blog, I only considered static site solutions (I'm sorry WordPress 🤣).
