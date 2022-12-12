@@ -37,4 +37,4 @@ Based on the above criteria, Hugo stood out to be the obvious answer to my dilem
 
 
  #### Comments
-I am using disqus for comments. I enjoy the emoji reactins at the end of every post
+I am using disqus for comments. I enjoy the emoji reactions at the end of every post
