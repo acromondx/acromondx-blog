@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2022-09-10T12:00:06+09:00
-description: I often find myself looking at the world through a different lens than most people. For me, everything can be broken down into lines of code and logical sequences of steps.
+description: This is my first blog post
 draft: false
 hideToc: true
 enableToc: false
