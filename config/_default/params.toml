@@ -20,7 +20,7 @@ enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
-enableAppbarSearchIcon = false
+enableAppbarSearchIcon = true
 enableAppbarLangIcon = false
 
 # header
