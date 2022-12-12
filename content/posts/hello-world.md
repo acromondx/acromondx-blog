@@ -10,7 +10,7 @@ authorEmoji: 🤖
 categories:
 - personal
 
-image: images/feature1/markdown.png
+image: images/feature1/salute.png
 ---
 
 ### Pseudo-Intro

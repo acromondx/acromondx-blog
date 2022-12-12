@@ -1,7 +1,7 @@
 ---
 title: Seeing the World Through Code
 date: 2022-11-13T12:00:06+09:00
-description: I often find myself looking at the world through a different lens than most people. For me, everything can be broken down into lines of code and logical sequences of steps.
+description: I often find myself looking at the world through a unique lens.
 draft: false
 hideToc: false
 enableToc: false
@@ -10,7 +10,7 @@ authorEmoji: 🤖
 categories:
 - personal
 
-image: images/feature1/infinity.png
+image: images/feature1/globe.png
 ---
 
 As a programmer, I often find myself looking at the world through a different lens than most people. For me, everything can be broken down into lines of code and logical sequences of steps.
