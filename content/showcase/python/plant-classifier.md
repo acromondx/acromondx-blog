@@ -1,10 +1,10 @@
 ---
-title: "Plant Classifier"
+title: "Plant Classifier 🌱"
 date: 2021-01-19T21:13:42+09:00
-description: A computer vision algorithm to classify plants
+description:  This is a complete project that uses Scikit-Learn, OpenCV, and Numpy to classify plant species using Random Forest classifier.
 weight: 2
 link: https://github.com/acromondx/plant-classifier
 repo: https://github.com/acromondx/plant-classifier
 pinned: true
-thumb: feature3/css3-bare.png
+thumb: feature3/plant.png
 ---

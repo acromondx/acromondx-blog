@@ -24,6 +24,6 @@ I hated OOP.
 
 Ouch! That wasn't the intro you were expecting right? Now before you judge, let me tell you a story.
 
-In a hypothetical city, lived FooBar, a young boy who watched a lot of hacking movies. FooBar fell in love with the art of programming and decided to teach himself programming. He quickly searched google and came across slogan, "Java, write once run anywhere". He was sold. FooBar embarked on a mission to master Java and probably make cool android apps with it. 
+In a hypothetical city, lived FooBar, a young boy who has watched a lot of hacking movies. FooBar fell in love with the art of programming and decided to teach himself programming. He quickly searched google and came across slogan, "Java, write once run anywhere". He was sold. FooBar embarked on a mission to master Java and probably make cool android apps with it. 
 
-Yes, you've figured it out. I am FooBar! Now enough with the Disney stories, lets dive into OOP.
+Yes, you've figured it out. I am FooBar! Now enough with the Disney-style story, lets dive into OOP.

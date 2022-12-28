@@ -20,7 +20,7 @@ enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
-enableAppbarSearchIcon = true
+enableAppbarSearchIcon = false
 enableAppbarLangIcon = false
 
 # header
@@ -31,7 +31,7 @@ hideHomeHeaderWhenMobile = false
 showMobileMenuTerms = ["tags", "categories", "series"] # "tags", "categories", "series"
 
 # search
-enableSearch = true
+enableSearch = false
 enableSearchHighlight = true
 searchResultPosition = "side" # side, main
 searchContent = true # include content to search index
@@ -49,9 +49,9 @@ paginateWindow = 1
 talksPaginate = 5
 talksGroupByDate = "2006"
 pubPaginate = 20
-writtenTimeIcon = "📅"
+writtenTimeIcon = "🗓"
 modifiedTimeIcon = "📝"
-readingTimeIcon = "☕"
+readingTimeIcon = "🕑"
 authorIcon = "✍️"
 pagePvIcon = "👀"
 pinIcon = "📌"
@@ -62,7 +62,7 @@ typeIcon = "🎯"
 # whoami
 myname = "Gideon"
 email = "acromondx@gmail.com"
-whoami = "python dev 🐍 | flutter jedi 💙"
+whoami = "programmer"
 bioImageUrl = ""
 useGravatar = false
 location = "Kumasi, Ghana"
@@ -188,7 +188,7 @@ commento = false
   whatsapp = ""
   matrix = ""
   xmpp = ""
-  dev-to = ""
+  dev-to = "https://dev.to/acromondx"
   gitea = ""
   google-scholar = ""
 

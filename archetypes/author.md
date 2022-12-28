@@ -9,8 +9,8 @@ series:
 categories:
 -
 author:
-authorEmoji: 🤖
-authorImage: "/images/whoami/profile.jpeg"
+authorEmoji: 🥷🏽
+authorImage: "/images/whoami/avatar.jpeg"
 authorImageUrl: ""
 authorDesc: 
 socialOptions:
