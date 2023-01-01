@@ -28,7 +28,7 @@ homeHeaderType = "img" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"] # "tags", "categories", "series"
+showMobileMenuTerms = ["categories"] # "tags", "categories", "series"
 
 # search
 enableSearch = false
@@ -73,10 +73,10 @@ link = "https://acromondx.me"
 enableBio = true
 enableBioImage = true
 enableSidebar = true
-enableSidebarTags = true
-enableSidebarSeries = true
+enableSidebarTags = false
+enableSidebarSeries = false
 enableSidebarCategories = true
-enableHomeSidebarTitles = true
+enableHomeSidebarTitles = false
 enableListSidebarTitles = true
 enableToc = true
 hideToc = false
