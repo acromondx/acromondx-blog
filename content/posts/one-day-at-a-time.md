@@ -1,5 +1,5 @@
 ---
-title: One Day at a Time
+title: One Day At A Time
 date: 2022-11-04T12:00:06+09:00
 description: A Journey to Excellence - My Daily Quest to Master Software Development
 draft: false
