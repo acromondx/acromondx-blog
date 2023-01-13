@@ -23,4 +23,4 @@ Another crucial aspect of mastering my craft is staying up to date with the late
 
 I remind myself to focus on the progress I make and the lessons I learn, rather than becoming fixated on a distant and potentially unattainable goal of becoming a "master" of my craft. And by doing so, I find that I am able to enjoy the journey, as well as the destination.
 
-In short, I believe that the key to mastering one's craft is to take it one day at a time and never stop learning. By consistently learning, practicing, and staying up-to-date with the latest trends, I am able to keep growing and expanding my skills as a software developer and stay on top of my craft.
+In short, I believe that the key to mastering one's craft is to take it one day at a time and never stop learning. By consistently learning, practicing, and staying up-to-date with the latest trends, I am able to keep growing and expanding my skills as a software developer and stay on top of my craft 🤖.
