@@ -13,7 +13,7 @@ categories:
 image: images/feature1/adventure.png
 ---
 
-As a software developer, I am constantly reminded of how much there is to learn and master in my craft. From new programming languages and frameworks to design patterns and best practices, the field of software development is always evolving. However, rather than feeling overwhelmed by the sheer breadth of knowledge, I choose to approach my learning and growth as a software developer one day at a time.
+I am constantly reminded as a software developer how much there is to learn and master in my craft. From new programming languages and frameworks to design patterns and best practices, the field of software development is always evolving. However, rather than feeling overwhelmed by the sheer breadth of knowledge, I choose to approach my learning and growth as a software developer one day at a time.
 
 I begin each day with the intention of learning something new or mastering a specific skill. This might mean taking an online course, working on a personal project, or even just reading an article or blog post about a topic that interests me. I find that by taking small steps each day, I am able to make steady progress towards mastering my craft.
 
