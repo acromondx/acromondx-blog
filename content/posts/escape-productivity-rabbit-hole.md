@@ -25,7 +25,7 @@ But Newport doesn't just stop at pointing out the problem. He also offers a solu
 
 At first, I was skeptical. I mean, how could simply scheduling some time to focus deeply on my work really make that much of a difference? But I decided to give it a try. And you know what? It worked.
 
-Now, every morning, I start my day by scheduling blocks of deep work into my calendar. I'll often start with a two-hour block of time, during which I'll turn off my phone, close all unnecessary tabs, and focus solely on the task at hand. And you know what? I'm getting more done in those two hours than I used to get done in an entire day.
+Now, every morning, I start my day by scheduling blocks of deep work into my calendar. I'll often start with a two-hour block of time, during which I'll turn off my phone(or enable Do Not Disturb mode), close all unnecessary tabs, and focus solely on the task at hand. And you know what? I'm getting more done in those two hours than I used to get done in an entire day.
 
 But it's not just about scheduling blocks of deep work. Newport also stresses the importance of limiting your shallow work as well. Shallow work, as he defines it, is "non-cognitively demanding, logistical-style tasks, often performed while distracted." In other words, it's all the little things that we do throughout the day that don't require much mental effort, but that still manage to suck up our time.
 
