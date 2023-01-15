@@ -17,7 +17,7 @@ As a programmer, I've spent countless hours staring at a screen, trying to debug
 
 You know the one I'm talking about. It's that moment when you're working on a task, and suddenly you find yourself getting lost in a sea of browser tabs, researching tangentially related topics, and ultimately wasting hours upon hours of your time without making any real progress.
 
-Well, I'm here to tell you that I've found a way to escape the productivity rabbit hole, and it's all thanks to a little book called "Deep Work" by Cal Newport.
+After days of research, I've found a way to escape the productivity rabbit hole, and it's all thanks to a little book called "Deep Work" by Cal Newport.
 
 In "Deep Work," Newport argues that in today's age of constant distractions, the ability to focus deeply on a task is becoming a rare and valuable skill. And he's absolutely right. With notifications popping up on our phones every few minutes, and an endless stream of tiktok videos just a click away, it's no wonder that so many of us struggle to stay focused.
 
