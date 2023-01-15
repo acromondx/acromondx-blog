@@ -10,5 +10,8 @@ date = "2022-02-28"
 On this blog, I share my learnings and creations through articles, the most of which are about technology and programming.
 
 
-Aside from coding, I love photography 📸, reading 📚, cooking 🍰 and running 🏃‍♂️
-
+Aside from coding, I love 
+- photography 📸 
+- reading 📚
+- cooking 🍰
+- and more coding  😁
