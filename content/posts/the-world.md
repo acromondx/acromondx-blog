@@ -2,7 +2,7 @@
 title: Seeing the World Through Code
 date: 2022-10-13T12:00:06+09:00
 description: I often find myself looking at the world through a unique lens.
-draft: false
+draft: true
 hideToc: false
 enableToc: false
 enableTocContent: false
