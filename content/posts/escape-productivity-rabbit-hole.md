@@ -2,7 +2,7 @@
 title: The Productivity Rabbit Hole
 date: 2023-01-04T12:00:06+09:00
 description: A Programmer's Guide to Working Smarter, Not Harder
-draft: false
+draft: true
 hideToc: false
 enableToc: false
 enableTocContent: false
