@@ -2,7 +2,7 @@
 title: One Day At A Time
 date: 2022-11-04T12:00:06+09:00
 description: My Daily Quest to Master Software Development
-draft: false
+draft: true
 hideToc: false
 enableToc: false
 enableTocContent: false
