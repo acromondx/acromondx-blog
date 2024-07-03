@@ -67,7 +67,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Kumasi, Ghana"
 organization = ""
-link = "https://acromondx.netlify.com"
+link = "https://acromondx.netlify.app"
 
 # sidebar
 enableBio = true

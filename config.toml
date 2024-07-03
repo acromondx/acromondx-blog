@@ -1,4 +1,4 @@
-baseURL = "http://acromondx.netlify.com"
+baseURL = "http://acromondx.netlify.app"
 languageCode = 'en-us'
 title = 'AcromondX'
 theme = 'zzo'
