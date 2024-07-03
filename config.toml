@@ -4,3 +4,8 @@ title = 'AcromondX'
 theme = 'zzo'
 
 ignoreErrors = ["error-remote-getjson"]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.111.0'
