@@ -6,5 +6,5 @@ weight: 2
 link: https://github.com/acromondx/library-hub
 repo: https://github.com/acromondx/library-hub
 pinned: true
-thumb: feature3/vectorvote.png
+thumb: feature3/library-hub.png
 ---
